@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: fdcbe3f28097abe4e857d14c221f696b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4411706641373177867
+    second: Illu_Tekengebied 1 kopie 2_0
+  - first:
+      213: -4891562372183956363
+    second: Illu_Tekengebied 1 kopie 2_1
+  - first:
+      213: 1227502012762088660
+    second: Illu_Tekengebied 1 kopie 2_2
+  - first:
+      213: 1441858888410537376
+    second: Illu_Tekengebied 1 kopie 2_3
+  - first:
+      213: 5607955954811134090
+    second: Illu_Tekengebied 1 kopie 2_4
+  - first:
+      213: 9126289581458260564
+    second: Illu_Tekengebied 1 kopie 2_5
+  - first:
+      213: -350762976338988736
+    second: Illu_Tekengebied 1 kopie 2_6
+  - first:
+      213: 5374937217360553610
+    second: Illu_Tekengebied 1 kopie 2_7
+  - first:
+      213: 6990350113507496421
+    second: Illu_Tekengebied 1 kopie 2_8
+  - first:
+      213: -3150473345908856405
+    second: Illu_Tekengebied 1 kopie 2_9
+  - first:
+      213: -8598358942265185620
+    second: Illu_Tekengebied 1 kopie 2_10
+  - first:
+      213: -4297779153574092999
+    second: Illu_Tekengebied 1 kopie 2_11
+  - first:
+      213: 7262908108021512906
+    second: Illu_Tekengebied 1 kopie 2_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2454
+        width: 395
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f758b31f2876c2c0800000000000000
+      internalID: -4411706641373177867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_1
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2454
+        width: 394
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574ee4960fdad1cb0800000000000000
+      internalID: -4891562372183956363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_2
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 2454
+        width: 395
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4e2c7b396f80110800000000000000
+      internalID: 1227502012762088660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_3
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2454
+        width: 395
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad13fb0503820410800000000000000
+      internalID: 1441858888410537376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1751
+        width: 395
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80ed8a8a3673dd40800000000000000
+      internalID: 5607955954811134090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_5
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1751
+        width: 394
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4520b2c650817ae70800000000000000
+      internalID: 9126289581458260564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 944
+        width: 395
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041b4f27ee6d12bf0800000000000000
+      internalID: -350762976338988736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_7
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 944
+        width: 394
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a866dcaebec979a40800000000000000
+      internalID: 5374937217360553610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_8
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 944
+        width: 398
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d93b4466b20160800000000000000
+      internalID: 6990350113507496421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_9
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 941
+        width: 395
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba924ce0f254744d0800000000000000
+      internalID: -3150473345908856405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 159
+        width: 456
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaeafa191e7ca880800000000000000
+      internalID: -8598358942265185620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 159
+        width: 471
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f132461a83b54c0800000000000000
+      internalID: -4297779153574092999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu_Tekengebied 1 kopie 2_12
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 159
+        width: 511
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca3de691780bc460800000000000000
+      internalID: 7262908108021512906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

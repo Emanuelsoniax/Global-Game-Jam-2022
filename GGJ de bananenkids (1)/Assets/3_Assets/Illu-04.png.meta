@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: aa53e3ecbae103c47915ec721643435c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7387520542074127456
+    second: Illu-04_0
+  - first:
+      213: 7434036895182473065
+    second: Illu-04_1
+  - first:
+      213: 1569787631223224403
+    second: Illu-04_2
+  - first:
+      213: -5401962671284236549
+    second: Illu-04_3
+  - first:
+      213: 7398445999978746426
+    second: Illu-04_4
+  - first:
+      213: -3224270488713494517
+    second: Illu-04_5
+  - first:
+      213: -1365032960286655536
+    second: Illu-04_6
+  - first:
+      213: 6075256770135379685
+    second: Illu-04_7
+  - first:
+      213: 6353973994815621789
+    second: Illu-04_8
+  - first:
+      213: -2317956034260910246
+    second: Illu-04_9
+  - first:
+      213: -3875608002247795774
+    second: Illu-04_10
+  - first:
+      213: 3643891985511642410
+    second: Illu-04_11
+  - first:
+      213: -7840209268930711769
+    second: Illu-04_12
+  - first:
+      213: -6918949980069687581
+    second: Illu-04_13
+  - first:
+      213: 717742771133027201
+    second: Illu-04_14
+  - first:
+      213: 7502815659941106287
+    second: Illu-04_15
+  - first:
+      213: -7234119183961567396
+    second: Illu-04_16
+  - first:
+      213: -7860593725889783557
+    second: Illu-04_17
+  - first:
+      213: -4330716687658850006
+    second: Illu-04_18
+  - first:
+      213: -6426382118746928756
+    second: Illu-04_19
+  - first:
+      213: 3651555443502904488
+    second: Illu-04_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Illu-04_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6617
+        width: 958
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab35ce25314a7990800000000000000
+      internalID: -7387520542074127456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_1
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 6617
+        width: 957
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967cf704b210b2760800000000000000
+      internalID: 7434036895182473065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 6244
+        width: 182
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358bcd3988109c510800000000000000
+      internalID: 1569787631223224403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 6266
+        width: 246
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfece20429f5805b0800000000000000
+      internalID: -5401962671284236549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_4
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 5966
+        width: 664
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3294a6307f8ca660800000000000000
+      internalID: 7398445999978746426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_5
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 5966
+        width: 665
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00057cc2171143d0800000000000000
+      internalID: -3224270488713494517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 5827
+        width: 112
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbf96f31cd6e0de0800000000000000
+      internalID: -1365032960286655536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 5867
+        width: 113
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eec43728d5af4450800000000000000
+      internalID: 6075256770135379685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 5480
+        width: 286
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0e09fea9dd2850800000000000000
+      internalID: 6353973994815621789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 5443
+        width: 370
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fb7e49447f4dfd0800000000000000
+      internalID: -2317956034260910246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_10
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 5440
+        width: 405
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbdb594e03173ac0800000000000000
+      internalID: -3875608002247795774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_11
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 5399
+        width: 373
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2570546474b19230800000000000000
+      internalID: 3643891985511642410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5088
+        width: 285
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fe8a8853bf13390800000000000000
+      internalID: -7840209268930711769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_13
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 5066
+        width: 497
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee004bb6a3faff90800000000000000
+      internalID: -6918949980069687581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_14
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 5045
+        width: 296
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1831d716f3fe5f900800000000000000
+      internalID: 717742771133027201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_15
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 5004
+        width: 239
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f621702571b5f1860800000000000000
+      internalID: 7502815659941106287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3542
+        width: 815
+        height: 1214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fc1212eee3b9b90800000000000000
+      internalID: -7234119183961567396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_17
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3542
+        width: 772
+        height: 1122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8dcac47af89e290800000000000000
+      internalID: -7860593725889783557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2967
+        width: 790
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29ec312e1436e3c0800000000000000
+      internalID: -4330716687658850006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_19
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 2964
+        width: 790
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89ca2de287e0d6a0800000000000000
+      internalID: -6426382118746928756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illu-04_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 302
+        width: 1794
+        height: 1283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a472af345eeca230800000000000000
+      internalID: 3651555443502904488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

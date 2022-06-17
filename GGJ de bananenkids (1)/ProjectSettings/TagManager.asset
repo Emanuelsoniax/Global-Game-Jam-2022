@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Items
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: New Layer
+    uniqueID: 3347750165
+    locked: 0
+  - name: Mineables achter
+    uniqueID: 4210332515
+    locked: 0
+  - name: Achtergrond
+    uniqueID: 2651501869
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mineables voor
+    uniqueID: 1251943521
+    locked: 0
+  - name: Voorgrond
+    uniqueID: 1057432887
+    locked: 0
